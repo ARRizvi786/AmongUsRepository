@@ -27,7 +27,11 @@
 
 # Executables
 *.exe
-*.out
+*.outfd
+fdf
+df
+d
+fd
 *.app
 *.ipa
 
